@@ -10,10 +10,8 @@
 ### 🧠 Sobre mim
 
 - 🔭 Trabalhando em projetos com **Node.js, React e PostgreSQL**  
-- 🌱 Aprendendo mais sobre **Docker, arquitetura limpa e segurança em APIs**  
-- 💬 Gosto de falar sobre **boas práticas, performance e testes**  
+- 🌱 Aprendendo mais sobre **Docker, arquitetura limpa e segurança em APIs**   
 - 📫 Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/giovanisantos9/)**  
-- ⚡ Curiosidade: Adoro estudar arquitetura de software e desmontar coisas pra entender como funcionam 😄
 
 ---
 
