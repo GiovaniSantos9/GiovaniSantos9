@@ -30,14 +30,6 @@
 
 ---
 
-### 🏆 Conquistas no GitHub
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GiovaniSantos9&theme=flat&no-frame=true&column=7&margin-w=5" />
-</p>
-
----
-
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
