@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedor apaixonado por tecnologia e código limpo.</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GiovaniSantosDev&label=Profile%20views&color=0e75b6&style=flat" alt="GiovaniSantosDev" />
+  <img src="https://komarev.com/ghpvc/?username=GiovaniSantos9&label=Profile%20views&color=0e75b6&style=flat" alt="GiovaniSantos9" />
 </p>
 
 ---
