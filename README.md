@@ -15,7 +15,6 @@
 
 ---
 
-### 🚀 Minhas estatísticas no GitHub
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiovaniSantos9&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
@@ -24,7 +23,6 @@
 
 ---
 
-### 📈 Linguagens mais usadas
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniSantos9&layout=compact&theme=transparent&hide_border=false" />
@@ -40,7 +38,6 @@
 
 ---
 
-### 💻 Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
