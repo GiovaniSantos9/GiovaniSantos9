@@ -51,7 +51,7 @@
   <a href="mailto:jiovanisantos9@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/giovanisantos9/" target="_blank">
+  <a href="Confira o perfil de Giovani Santos no LinkedIn https://cv.linkedin.com/in/giovani-santos-14803b36a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/GiovaniSantos9" target="_blank">
