@@ -9,7 +9,7 @@
 
 - Working on projects with **Node.js, React, and PostgreSQL**  
 - Learning more about **Docker, clean architecture, and API security**  
-- Where to find me: **[LinkedIn](https://www.linkedin.com/in/giovanisantos9/)**
+- Where to find me: **[LinkedIn](https://www.linkedin.com/in/giovani-santos-14803b36a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
 ---
 
