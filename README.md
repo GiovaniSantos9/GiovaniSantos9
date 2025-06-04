@@ -1,18 +1,17 @@
-<h1 align="center">Olá, eu sou Giovani Santos</h1>
+<h1 align="center">Hi there, I'm Giovani Santos</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GiovaniSantos9&label=Visualiza%C3%A7%C3%B5es%20do%20perfil&color=0e75b6&style=flat" alt="GiovaniSantos9" />
+  <img src="https://komarev.com/ghpvc/?username=GiovaniSantos9&label=Profile%20views&color=0e75b6&style=flat" alt="GiovaniSantos9" />
 </p>
 
 ---
 
-### Sobre mim
+### About Me
 
-- Trabalhando em projetos com **Node.js, React e PostgreSQL**  
-- Aprendendo mais sobre **Docker, arquitetura limpa e segurança em APIs**   
-- Como me encontrar: **[LinkedIn](https://www.linkedin.com/in/giovanisantos9/)**  
+- Working on projects with **Node.js, React, and PostgreSQL**  
+- Learning more about **Docker, clean architecture, and API security**  
+- Where to find me: **[LinkedIn](https://www.linkedin.com/in/giovanisantos9/)**
 
 ---
-
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiovaniSantos9&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
@@ -21,13 +20,11 @@
 
 ---
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniSantos9&layout=compact&theme=transparent&hide_border=false" />
 </p>
 
 ---
-
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -44,5 +41,19 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Bem-vindo+ao+meu+GitHub!;Confira+meus+projetos%C3%A7%C3%B5es!+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Check+out+my+projects+%F0%9F%9A%80" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:jiovanisantos9@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/giovanisantos9/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/GiovaniSantos9" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
