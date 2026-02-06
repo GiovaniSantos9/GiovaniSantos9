@@ -8,29 +8,30 @@
 
 ### About Me
 
-- Working on projects with **Node.js, React, and PostgreSQL**
-- Learning more about **Docker, clean architecture, and API security**
-- Where to find me: **[LinkedIn](https://www.linkedin.com/in/giovani-santos-14803b36a/)**
+- 💻 Working on projects with **Node.js, React, and PostgreSQL**
+- 📚 Learning more about **Docker, clean architecture, and API security**
+- 🔗 Where to find me:  
+  **[LinkedIn](https://www.linkedin.com/in/giovani-santos-14803b36a/)**
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GiovaniSantos9&show_icons=true&theme=transparent&count_private=true&include_all_commits=true" />
-</p>
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GiovaniSantos9&theme=transparent" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniSantos9&layout=compact&theme=transparent&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GiovaniSantos9&show_icons=true&count_private=true&include_all_commits=true" />
 </p>
 
 ---
 
-### Technologies
+### Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovaniSantos9&layout=compact&langs_count=6" />
+</p>
+
+---
+
+### Technologies & Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -47,10 +48,12 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Check+out+my+projects+🚀" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0e75b6&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Check+out+my+projects+🚀" />
 </p>
 
 ---
+
+### Contact
 
 <p align="center">
   <a href="mailto:giovanisantos9@gmail.com">
