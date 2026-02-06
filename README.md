@@ -15,6 +15,9 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GiovaniSantos9&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
+
+---
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=GiovaniSantos9&theme=transparent&hide_border=false" />
 </p>
 
