@@ -14,9 +14,6 @@
 
 ---
 
-<p align="center">
-  <img src="./assets/github-stats.svg" />
----
 
 <p align="center">
   <!-- GitHub Streak Stats (mantido, pois funciona) -->
