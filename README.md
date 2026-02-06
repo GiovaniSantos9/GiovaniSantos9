@@ -15,10 +15,7 @@
 ---
 
 <p align="center">
-  <!-- GitHub Metrics - substitui o github-readme-stats -->
-  <img width="98%" src="https://metrics.lecoq.io/GiovaniSantos9?template=classic&isocalendar=1&languages=1&languages.limit=6&followup=1&achievements=1" />
-</p>
-
+  <img src="./assets/github-stats.svg" />
 ---
 
 <p align="center">
